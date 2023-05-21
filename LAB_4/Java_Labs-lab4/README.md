@@ -1,1 +1,0 @@
-Java labs and practice repository.
